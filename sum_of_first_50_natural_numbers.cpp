@@ -1,5 +1,11 @@
 #include <iostream>
     using namespace std;
+/*           
+*program :sum of first 50 natural number
+* name :wahjat anwar
+* reg no :l1s26bscs0151
+*  Assignment01:: staring with git hub
+*/
 
 int main() {
     const int N = 50;
